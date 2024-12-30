@@ -3,4 +3,8 @@
     "serverName": "STATION-SYS-MAINT",
     "iconName": "fbi.png",
     "terminalID": "MAINT36542"
+     "defaultUser": {
+        "userId": "one",
+        "password": "allweone",
+        "userName": "all-we-one"
 }
