@@ -25,6 +25,25 @@
             "System successfully corrupted!"
         ]
     },
+    "diagnostic.exe": {
+        "help": "Troubleshoot MaintBot",
+        "clear": true,
+         "delayed": 2000,
+        "message": [
+            "Checking data.",
+            "Checking data..",
+            "Checking data...",
+            "0% complete",
+            "11% complete",
+            "47% complete",
+            "98% complete",
+            "<p class=glow style='font-size: 3em'>⚠ WARNING ⚠</p>",
+            "<p class=desync>IT IS AWAKE</p>",
+            "<img src=config/network/11.152.9.6/tech.jpg style='width: 10rem' class=glitch>",
+            "<p class=shimmer>ITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKE</p>",
+            "<p class=hack-reveal data-alphabet=uppercase data-iterations-before-reveal=0 data-preserve-spaces=true>ITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKEITISAWAKE</p>",
+        ]
+    },
     "target.exe": {
         "location": ["127.0.0.1", "localhost"],
         "message": [
