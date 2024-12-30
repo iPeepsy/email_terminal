@@ -16,7 +16,13 @@
         "password": "admin",
         "userName": "root"
     },
-
+    
+    {
+        "userId": "All",
+        "password": "casey",
+        "userName": "All-We-One"
+    },
+    
     {
         "userId": "n",
         "password": "n",
